@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Gabriel Alvarez
 
-<!--
-**Gabrielalvarez-dev/gabrielalvarez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full Stack Developer
 
-Here are some ideas to get you started:
+Soy desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y he finalizado el Curso Superior Full Stack Developer de Deusto Formación. Me apasiona crear aplicaciones, aprender nuevas tecnologías y seguir creciendo profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Java
+- Android
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- SQL
+- MySQL
+- Git & GitHub
+
+## Actualmente
+
+- 🎓 Finalizando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- ✅ Curso Superior Full Stack Developer finalizado (Deusto Formación)
+- 🚀 Construyendo proyectos para mi portfolio
+- 📚 Aprendiendo nuevas tecnologías Full Stack
+
+## Contacto
+
+💼 LinkedIn:
+https://www.linkedin.com/in/gabriel-alvarez-630678419/
